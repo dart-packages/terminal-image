@@ -1,0 +1,14 @@
+# Global
+.dart_tool/*
+pubspec.lock
+.packages
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
+# phpstorm
+.idea/*
